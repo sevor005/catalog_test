@@ -1,0 +1,139 @@
+{
+	"products": [{
+			"title": "яблоко",
+			"id": "1",
+			"discription": "кисло",
+			"price": "200",
+			"brand": "true",
+			"rating": "14"
+		},
+		{
+			"title": "апельсин",
+			"id": "2",
+			"discription": "оранжевый",
+			"price": "300",
+			"brand": "false",
+			"rating": "18"
+		},
+		{
+			"title": "мандарин",
+			"id": "3",
+			"discription": "маленький",
+			"price": "20",
+			"brand": "true",
+			"rating": "19"
+		},
+		{
+			"title": "манго",
+			"id": "4",
+			"discription": "вкусно",
+			"price": "2000",
+			"brand": "true",
+			"rating": "20"
+		},
+		{
+			"title": "банан",
+			"id": "5",
+			"discription": "желтый",
+			"price": "220",
+			"brand": "true",
+			"rating": "16"
+		},
+		{
+			"title": "киви",
+			"id": "6",
+			"discription": "зеленый",
+			"price": "100",
+			"brand": "false",
+			"rating": "15"
+		},
+		{
+			"title": "абрикос",
+			"id": "7",
+			"discription": "маленький персик",
+			"price": "150",
+			"brand": "false",
+			"rating": "13"
+		},
+		{
+			"title": "персик",
+			"id": "8",
+			"discription": "большой, мягкий",
+			"price": "204",
+			"brand": "false",
+			"rating": "12"
+		},
+		{
+			"title": "морковь",
+			"id": "9",
+			"discription": "красная",
+			"price": "1250",
+			"brand": "false",
+			"rating": "10"
+		},
+		{
+			"title": "капуста",
+			"id": "10",
+			"discription": "круглая",
+			"price": "400",
+			"brand": "true",
+			"rating": "9"
+		},
+		{
+			"title": "тыква",
+			"id": "11",
+			"discription": "большая",
+			"price": "700",
+			"brand": "false",
+			"rating": "8"
+		},
+		{
+			"title": "картофель",
+			"id": "12",
+			"discription": "жаренный",
+			"price": "550",
+			"brand": "false",
+			"rating": "7"
+		},
+		{
+			"title": "кукуруза",
+			"id": "13",
+			"discription": "длинная",
+			"price": "340",
+			"brand": "true",
+			"rating": "6"
+		},
+		{
+			"title": "перец",
+			"id": "14",
+			"discription": "болгарский",
+			"price": "25",
+			"brand": "false",
+			"rating": "5"
+		},
+		{
+			"title": "петрушка",
+			"id": "15",
+			"discription": "трава",
+			"price": "35",
+			"brand": "false",
+			"rating": "4"
+		},
+		{
+			"title": "кинза",
+			"id": "16",
+			"discription": "похожая трава",
+			"price": "55",
+			"brand": "true",
+			"rating": "3"
+		},
+		{
+			"title": "мята",
+			"id": "17",
+			"discription": "мятная",
+			"price": "73",
+			"brand": "false",
+			"rating": "2"
+		}
+	]
+}

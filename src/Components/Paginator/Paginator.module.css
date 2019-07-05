@@ -1,0 +1,25 @@
+.paginatorList {
+  display: flex;
+  justify-content: center;
+}
+
+.paginatorItem {
+  font-size: 20px;
+  color: #999;
+  list-style-type: none;
+  transition: font-size .2s;
+  cursor: pointer;
+  margin-left: 9px;
+}
+
+.paginatorItem:first-child {
+  margin-left: 0;
+}
+
+.paginatorItem:hover {
+  font-size: 24px;
+}
+
+.paginatorItem:active {
+  font-size: 24px;
+}
